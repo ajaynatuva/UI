@@ -1,0 +1,17 @@
+export const GET_CRAWLER = "getCrawler"
+export const SUBMIT_CRAWLER = "submitCrawler"
+export const GET_ALL_CRAWLER_DETAILS="getAllCrawlerDetails"
+export const GET_FREQUENCY="getFrequency"
+export const GET_CRAWLER_CLASS="getCrawlerClass"
+export const SAVE_CONFIG="saveConfig"
+export const RUN_CRAWLER="runCrawler"
+export const SOURCE_NAME='name'
+export const URL='url'
+export const XPATHS='xpaths'
+export const XPATHDELIMETER='xpathDelimiter'
+export const FREQUENCY='frequency'
+export const CRAWLER_CLASS='crawlerClass'
+export const LAST_PUBLISHED_DATE='lastPublishedDate'
+export const EMAILID='emailIds'
+export const CRAWLER_VALIDATION='crawlerValidation'
+export const RESET_CRAWLER_STATE='resetCrawlerState'

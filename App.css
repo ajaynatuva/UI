@@ -1,0 +1,18 @@
+.footer{
+  font-size: 10px;
+  margin-left: 480px;
+  margin-top: 0px;
+  color: grey;
+}
+.Sidebar{
+ height:100%;
+ width: 300px;
+ background-color: aliceblue;
+}
+.active{
+ background-color: red;
+}
+.positivebutton{
+ background-Color:#004f71;
+ color : white;
+}

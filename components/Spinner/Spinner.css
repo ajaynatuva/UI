@@ -1,0 +1,13 @@
+/*loading */
+/* HTML: <div class="loader"></div> */
+.classicLoader {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    animation: l1 1s linear infinite alternate;
+    color: #004f71;
+  }
+  .classicLoader:before {
+    content:"Loading..."
+  }
+  @keyframes l1 {to{opacity: 0}}

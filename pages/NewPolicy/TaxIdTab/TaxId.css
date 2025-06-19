@@ -1,0 +1,7 @@
+.taxIdContainer{
+    border: 1px solid lightGrey;
+    min-height: 330px;
+    /* height: auto !important; */
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

@@ -1,0 +1,35 @@
+.MuiInputLabel-outlined.MuiInputLabel-marginDense {
+  font-size: 12px;
+}
+.MuiOutlinedInput-root {
+  position: relative;
+  border-radius: 4px;
+  height: 25px;
+  top: 5px;
+}
+input.MuiOutlinedInput-inputMarginDense{
+  font-size: 12px;
+}
+#otp-container {
+  display: flex;
+  justify-content: space-between;
+  width: 330px; /* Adjust width based on your design */
+  margin: 0 auto; /* Center the container */
+}
+
+.otp-input {
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgb(206, 198, 198);
+  text-align: center;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: rgba(76, 104, 174, 0.35) 0px 5px 15px;
+}
+
+.otp-input:focus {
+  color: #3f4254;
+  border-color: #2874A6;
+  outline: 0;
+}

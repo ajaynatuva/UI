@@ -1,0 +1,57 @@
+.vl {
+  border-left: 1px solid grey;
+  height: 8vh;
+  margin-left: 3%;
+  /* margin-left: 190px; */
+  margin-top: 45px;
+}
+.amps {
+  font-size: 25px;
+  margin-left: 200px;
+  margin-top: -80px;
+  font-weight: 400;
+}
+.loginfooter {
+  font-size: 12px;
+  margin-top: 90px;
+  color: grey;
+}
+
+.login {
+  /* height: 90px; */
+  margin-top: 50px;
+}
+
+.logoheight {
+  margin-top: 30px;
+}
+
+.inputheight {
+  margin-bottom: 15px;
+}
+
+.passwordheight {
+  margin-bottom: 15px;
+}
+.loginSpinner {
+  max-height: 50px;
+  overflow: hidden;
+}
+
+.swal2-confirm,
+.swal2-deny {
+  border: none;
+  padding: 0.5rem 0.8rem;
+  margin-inline: 1.5rem;
+  border-radius: 4px;
+
+  background-color: #004f71;
+  color: white;
+  font-size: 12px;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+
+.swal2-deny {
+  background-color: #f32a2a;
+}

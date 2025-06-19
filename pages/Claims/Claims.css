@@ -1,0 +1,419 @@
+.Claims {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* // Height of the footer */
+  height: 40px;
+  font-size: 10px;
+  margin-left: 480px;
+  margin-top: 60px;
+  color: grey;
+}
+
+.ipuProcessed {
+  position: relative;
+  left: -50px;
+}
+
+.billType {
+  /* margin-left: -105px; */
+  position: relative;
+  left: -105px;
+}
+.claimViewTable th{
+  border: 1px solid;
+  text-align: center;
+  padding: 2px;
+}
+.claimViewTable td{
+  text-align: center;
+}
+.claimViewTable.tr:nth-child(odd) {
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(216, 215, 215);
+  border-collapse: collapse;
+}
+.claimViewTable.tr:nth-child(odd):hover {
+  background-color: rgb(205, 202, 202);
+}
+.claimViewTable.th:nth-child(odd) {
+  border: 1px solid rgb(216, 215, 215);
+  border-collapse: collapse;
+  text-align: center;
+}
+.claimViewTable.th:nth-child(even) {
+  text-align: center;
+}
+
+/* tr:nth-child(odd) {background-color: #f2f2f2;} */
+/* tr:nth-child(even) {background-color: white;} */
+/* .claimsGrid{ */
+/* div.tr:nth-child(n) {
+      background-color: #f9f4f4;
+  } */
+/* } */
+.claimsGridItem {
+  margin-top: "-15px";
+  padding: 8;
+  font-size: 12;
+}
+
+div.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  position: relative;
+  top: 25px;
+}
+
+div.css-138a9hj-MuiInputBase-root-MuiOutlinedInput-root {
+  font-size: 12px;
+}
+
+div.css-1v994a0 {
+  font-size: 12px;
+}
+
+div.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer {
+  height: 200px;
+  /* width:280px; */
+}
+
+.ipuProcessed {
+  position: relative;
+  left: -50px;
+}
+
+.billType {
+  /* margin-left: -105px; */
+  position: relative;
+  left: -105px;
+}
+
+/* tr:nth-child(odd) {background-color: #f2f2f2;} */
+
+/* .claimsGrid{ */
+/* div.tr:nth-child(n) {
+    background-color: #f9f4f4;
+} */
+/* } */
+.claimsGridItem {
+  margin-top: "-15px";
+  padding: 8;
+  font-size: 12;
+}
+
+div.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  position: relative;
+  top: 25px;
+}
+
+div.css-138a9hj-MuiInputBase-root-MuiOutlinedInput-root {
+  font-size: 12px;
+}
+
+div.css-1v994a0 {
+  font-size: 12px;
+}
+
+div.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer {
+  height: 200px;
+  /* width:280px; */
+}
+
+div.css-169iwlq-MuiCalendarPicker-root {
+  width: 280px;
+}
+
+div.css-i4bv87-MuiSvgIcon-root {
+  margin-left: -40px;
+}
+
+div.css-mvmu1r {
+  padding-right: 6px;
+}
+
+div.css-epd502 {
+  width: 280px;
+}
+
+div.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer {
+  width: 290px;
+}
+
+/* .processedfrom{
+  width: 210px;
+
+} */
+
+.labelfield {
+  margin-top: 10px;
+}
+
+.bill {
+  position: relative;
+  left: 10px;
+}
+
+.claimNum {
+  width: 94px;
+}
+
+.claimVer {
+  margin-left: 10px;
+}
+
+div.css-1brzq0m {
+  width: 290px;
+  max-height: 300px;
+}
+
+div.css-yquuwn {
+  display: none;
+}
+
+.date {
+  pointer-events: none;
+}
+
+.headerClass {
+  font-weight: 500;
+}
+
+.headers {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.clientGroupNumber {
+  font-size: 13px;
+  font-weight: bold;
+  color: #003355;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: middle;
+}
+
+/* .patientIdGender{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 250px;
+  float: right;
+} */
+.diagsCodes {
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+  cursor: pointer;
+  /* font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 285px;
+  float: right; */
+}
+.diagsCodes:hover {
+  overflow: visible;
+  white-space: normal;
+}
+
+/* .labelcss{
+/* position: relative;
+left: 50px; */
+/* width: 80px;
+} 
+/* .labelcs{
+position: relative;
+left: 12px;
+} */
+.fee {
+  margin-left: 15px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  /* border-collapse: collapse; */
+  /* width: 100%; */
+}
+
+td {
+  text-align: left;
+  padding: 3px;
+  font-size: 12px;
+}
+
+div.MuiBackdrop-root {
+  width: 0%;
+}
+.clmName {
+  text-align: center;
+  color: #cd6155;
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.clmdesc {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  /* display: inline-block; */
+  max-width: 150px;
+}
+.refDrgnClaimSlId {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100px;
+}
+.refDrgnClaimId {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 70px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.refDrgnClaimId:hover {
+  color: red;
+}
+
+th {
+  /* color:#003355; */
+  color: white;
+  /* background-color: #FBFCFC; */
+  position: sticky;
+  top: 0px;
+  text-align: center;
+  background-color: #004f71;
+  height: 10px;
+  border: 0.5px solid rgb(216, 215, 215);
+  font-size: 12px;
+}
+
+.clientHead {
+  color: #003355;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.clientgroupcode {
+  color: #003355;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* margin-top: 10px; */
+}
+
+.labels {
+  font-weight: bold;
+  font-size: 12px;
+  /* right: 40px; */
+}
+
+li {
+  list-style: none;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -25px;
+}
+
+.claimTitle {
+  position: relative;
+  font-weight: bold;
+  top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  /* opacity: 0.5; */
+}
+
+.claimNoData {
+  font-size: 17px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+/* .searchCode{
+  position: relative;
+  float: right;
+  bottom: 15px;
+} */
+.Total {
+  /* color:#5C63F7; */
+  color: #90f060;
+  /* #CACFD2; */
+  font-size: 10px;
+  position: relative;
+  top: 15px;
+  white-space: nowrap;
+  /* width: 250px; */
+  text-overflow: ellipsis;
+  overflow: hidden;
+  /* display: inline-block; */
+}
+
+.clmName1 {
+  color: #cd6155;
+  font-weight: bold;
+  font-size: 11px;
+  position: sticky;
+  /* top: 55px; */
+  background-color: white;
+}
+
+/* .claimViewGrid{
+  overflow-y: auto; 
+  height: 500px;
+} */
+div.MuiDialogTitle-root {
+  flex: 0 0 auto;
+  margin: 0;
+  /* padding: 16px 24px 14px 44px; */
+  /* background-color:#f2f2f2; */
+}
+
+div.MuiDialogActions-root {
+  flex: 0 0 auto;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.clone {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+.clone th,
+.clone td {
+  visibility: hidden;
+}
+.claimViewThClass {
+  white-space: nowrap; /* Allow text to wrap */
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  background-color: #004f71;
+  width: 140px;
+  display: block;
+}
+.refCode {
+  float: right;
+  position: relative;
+  right: 30px;
+  bottom: 10px;
+}
+.claimViewDesc {
+  white-space: nowrap; /* Allow text to wrap */
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  width: 100px;
+  display: block;
+}
+.claimViewThClassSmall {
+  white-space: nowrap; /* Allow text to wrap */
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  background-color: #004f71;
+  width: 50px;
+  display: block;
+}

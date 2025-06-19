@@ -1,0 +1,83 @@
+.icons {
+  position: relative;
+  bottom: 40px;
+  /* margin-bottom:50px; */
+  margin-left: 500px;
+}
+
+.sideNav:hover {
+  border-left: 3px solid #EE5209;
+}
+
+span.css-1aujd7s-MuiTypography-root {
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span.css-1r5ssmh {
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.css-xdwus8-MuiPaper-root-MuiDrawer-paper {
+  border-right: none;
+}
+
+/* div.css-1t29gy6-MuiToolbar-root {
+  min-height: 59px;
+} */
+div.css-56dcvc {
+  border-right: none;
+}
+
+main.MuiBox-root.css-zxdg2z {
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  padding: 0;
+  background-color: white;
+}
+
+div.css-1u2mxbp {
+  min-height: 0px;
+}
+
+span.css-1hwfws3 {
+  margin-top: 7px;
+}
+
+/* span.css-1aujd7s-MuiTypography-root {
+  margin-top: 7px;
+} */
+
+.css-wx798j-MuiButtonBase-root-MuiIconButton-root {
+  left: -200px;
+}
+
+.css-7hs5rr {
+  left: -200px;
+}
+
+.versions {
+  text-decoration: underline;
+  color: lightseagreen;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 13px;
+}
+
+.header{
+  color: lightseagreen;
+  left: 5px;
+
+
+}
+div.MuiDrawer-paper {
+  position: fixed;
+  top: 48px;
+}
+.MuiList-root{
+  background-color:#D6EAF8;
+}

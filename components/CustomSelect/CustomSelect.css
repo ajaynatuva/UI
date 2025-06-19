@@ -1,0 +1,49 @@
+
+
+.css-319lph-ValueContainer{
+    position: relative;
+    bottom: 3px;
+}
+.css-1hb7zxy-IndicatorsContainer {
+    position: relative;
+    bottom: 4px;
+}
+
+.css-1rhbuit-multiValue {
+position: relative;
+bottom: 4px;
+left: -4px;
+}
+div.css-xb97g8{
+    /* padding-left: 1px; */
+    margin-left: -5px;
+    padding-right: 0px;
+}
+div.css-12jo7m5{
+    padding: 3px;
+    padding-left:none;
+}
+
+div.css-1wy0on6{
+    position: relative;
+    bottom: 3px;
+}
+
+div.css-1d8n9bt {
+    position: relative;
+    bottom: 3px;
+}
+div.select_menu{
+    position: relative;
+    top: 20px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+div.css-1hwfws3 {
+    padding-left: 3px;
+}
+
+div.select__value-container.select__value-container--is-multi.select__value-container--has-value.css-g1d714-ValueContainer{
+    display: initial;
+    text-overflow: ellipsis;
+}

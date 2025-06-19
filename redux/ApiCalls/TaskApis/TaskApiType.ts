@@ -1,0 +1,17 @@
+export const GET_MY_TASK = "getMyTask"
+export const GET_GROUP_TASK = "getGroupTask"
+export const ASSIGN_GROUP_TASK = "assignGroupTask"
+export const UNASSIGN_GROUP_TASK = "unAssignGroupTask"
+export const DELTA_CONFIG = "deltaConfig"
+export const TASK_Id = "taskId"
+export const GET_LATEST_TASK = "getTask"
+export const SELECTED_METADATA_SOURCE = "selectedMetadataSource"
+export const GET_TOTAL_NUMBER_OF_ROWS = "getTotalNumberOfRows"
+export const GET_RATIONALE_DATA = "getRationaleData"
+export const GET_Max_UNITS_LKP_DATA = "getmaxUnitsLkpData"
+export const GET_MOD_INTRACTION_DATA = "getmodIntractionData"
+
+export const GET_MAI_LKP_DATA = "getmaiLkpData"
+export const GET_MUE_LKP_DATA = "getmueLkpData"
+
+export const GET_CLIENT_SPECIFIC_CODES_DATA = "getClientSpecificCodesData"

@@ -1,0 +1,293 @@
+.TestingReport {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* // Height of the footer */
+  height: 40px;
+  font-size: 10px;
+  margin-left: 480px;
+  margin-top: 60px;
+  color: grey;
+}
+
+.head {
+  font-weight: 500;
+  margin-left: -10px;
+  margin-top: 22px;
+}
+
+.policyNum {
+  margin-left: -10px;
+  width: 104px;
+}
+
+.scenario {
+  margin-left: -10px;
+  width: 170px;
+}
+
+.clm {
+  margin-left: -10px;
+}
+
+.lkpGrid {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 280px;
+  /* margin-top: 35px; */
+  margin-left: 30px;
+}
+
+.react-bootstrap-table th {
+  position: sticky;
+  top: 1px;
+  background-color: #fff;
+}
+
+.policyVer {
+  margin-left: 10px;
+  width: 70px;
+}
+
+.minage {
+  width: 205px;
+}
+
+.maxage {
+  width: 200px;
+}
+
+.allpolices {
+  position: sticky;
+  margin-left: 45%;
+  margin-top: -2%;
+}
+
+.deactivated {
+  position: fixed;
+  right: 25%;
+}
+
+.testing {
+  height: 200px;
+}
+
+.prodb {
+  margin-left: 8px;
+}
+
+.testingReportGrid {
+  height: 300px;
+}
+
+.swal2-icon.swal2-error {
+  border-color: #f27474;
+  color: #f27474;
+  font-size: 10px;
+}
+
+.swal2-container.swal2-center > .swal2-popup {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  width: 400px;
+}
+
+.gridAlignment {
+  margin-left: 5px;
+  margin-top: -10px;
+}
+
+.buttonAlignment {
+  margin-left: 77%;
+}
+
+.gen {
+  position: relative;
+}
+
+.dos {
+  position: relative;
+}
+
+.claimFormType {
+  position: relative;
+}
+
+.billTypeLkp {
+  position: relative;
+}
+
+.excludeGrp {
+  position: relative;
+}
+
+.taxonomy {
+  position: relative;
+}
+
+.main {
+  display: flex;
+  gap: 20px;
+  padding-bottom: 5px;
+}
+
+.mainChild {
+  width: 6%;
+}
+
+.mainChildMin {
+  width: 13%;
+}
+
+.btnGroup {
+  display: flex;
+  gap: 5px;
+  float: right;
+  margin-top: 10px;
+}
+
+.testingTabs {
+  position: relative;
+  bottom: 14px;
+}
+
+span.MuiButton-startIcon.MuiButton-iconSizeMedium {
+  margin-right: 3px;
+}
+
+.checkBtn {
+  margin-top: 2%;
+}
+
+.sce {
+  display: flex;
+  gap: 5px;
+  position: relative;
+  bottom: 7px;
+}
+
+.testGender {
+  width: 600px;
+}
+
+.testTin {
+  width: 600px;
+}
+
+.testClaim {
+  width: 1800px;
+}
+
+.testBillType {
+  width: 800px;
+  margin: 0;
+  padding: 0;
+}
+
+.testButtons {
+  float: right;
+}
+
+.tableGrid {
+  overflow-x: auto;
+  margin-top: 5px;
+}
+
+.scenarioTable {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  width: 100%;
+}
+
+.scenarioRun {
+  float: right;
+  margin-top: 3px;
+  margin: 0;
+  padding: 0;
+}
+
+/* tr.tableData:nth-child(2) {
+  background-color:#e5e5e5;
+} */
+.sceHead {
+  color: #e9780e;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.sceDesc {
+  color: black;
+  font-weight: bold;
+}
+
+.scenarioHead {
+  margin-left: 10px;
+  font-weight: 500;
+  color: #e9780e;
+  font-size: 14px;
+}
+
+.scenarioHead1 {
+  font-weight: 500;
+  color: #e9780e;
+  font-size: 14px;
+}
+
+.scenarioVal {
+  font-size: 13px;
+  margin-left: 3px;
+}
+.scenarioDescription {
+  overflow: hidden;
+  display: inline-block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: center;
+  position: relative;
+  top: 5px;
+  max-width: 120px;
+}
+.scenarioRun {
+  position: relative;
+  right: 10%;
+  top: 3px;
+}
+
+td.refClmId {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.testingReportBox {
+  padding-left: 28px;
+  padding-right: 25px;
+  border: 1px solid none;
+  margin-right: 10px;
+  width: 100%;
+  position: relative;
+  bottom: 8px;
+  background-color: #ecf0f1;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 1px 4px;
+}
+.testingReportTable{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.testingReportTable,td{
+  border: 1px solid;
+}
+.testingReportTable,tr:nth-child(odd) {
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(216, 215, 215);
+  border-collapse: collapse;}
+
+.testingReportTable th {
+  border: 1px solid;
+  text-align: center;
+  padding: 4px;
+}

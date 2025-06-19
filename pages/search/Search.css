@@ -1,0 +1,88 @@
+.Searchfooter {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* // Height of the footer */
+  height: 40px;
+  font-size: 10px;
+  margin-left: 400px;
+  margin-top: 60px;
+  color: grey;
+}
+
+.Searchtext {
+  text-align: center;
+  left: 172px;
+  position: relative;
+  margin-right: 400px;
+}
+.box {
+  box-sizing: border-box;
+}
+.date {
+  top: 40px;
+}
+.createddate {
+  margin-top: 1px;
+}
+.checkboxes {
+  margin-top: 25px;
+}
+.table-container {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 350px;
+  flex-grow: 1  ;
+  margin-top: 30px;
+}
+.react-bootstrap-table th {
+  position: sticky;
+  top: 0;
+  /* z-index: 1; */
+  background-color: #fff;
+}
+.policyNumber {
+  width: 104px;
+}
+.policyId {
+  width: 104px;
+  margin-left: 20px;
+}
+.cat {
+  margin-left: 40px;
+}
+.gridAlignment1 {
+  padding: 7px;
+  font-size: 12px;
+  margin-top: -10px;
+}
+.gridAlignment2 {
+  padding: 7px;
+  font-size: 12px;
+  margin-top: -20px;
+}
+.gridAlignment3 {
+  padding: 7px;
+  font-size: 12px;
+  margin-top: -20px;
+}
+
+/* .searchGrid{
+  height: 375px;
+} */
+
+.pos{
+  width: 360px;
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

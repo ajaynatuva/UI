@@ -1,0 +1,18 @@
+export const GET_USER_LIST = "getUserList"
+export const CREATE_USER = "createUser"
+export const EDIT_USER = "editUser"
+export const UPDATE_USER = "updateUser"
+export const LOGIN_USER = "loginUser"
+export const GET_ROLES="getRoles"
+export const GET_ROLES_BY_ID="getRolesById"
+export const EDIT_PASSWORD="editPassword"
+export const GET_USER_ROLE_BY_ID="getUserRoleById"
+export const CREATE_USER_VALIDATION="createUserValidation"
+export const ROLE_NAME="roleName"
+export const TAB_PATHS="tabPaths"
+// export const USER_DETAILS="userDetails"
+export const RESET_LOGIN_DETAILS="resetLoginDetails"
+ export const USER_LOGIN_DETAILS_CACHE="userLoginDetailsCache"
+ export const SET_IS_LOADING = "setIsLoading"
+
+

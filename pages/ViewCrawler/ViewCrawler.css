@@ -1,0 +1,20 @@
+.ViewCrawler{
+    position: fixed;
+      padding: 10px 10px 0px 10px;
+      bottom: 0;
+      width: 100%;
+      /* // Height of the footer */
+      height: 40px;
+      font-size: 10px;
+      margin-left: 480px;
+      margin-top: 60px;
+      color: grey;
+  }
+  /* .crawlerGrid{
+    height: 550px;
+  } */
+  div.MuiGrid-root {
+    /* margin-left: 0; */
+  }
+
+

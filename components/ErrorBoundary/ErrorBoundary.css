@@ -1,0 +1,9 @@
+.contentMsg {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    text-align: center; /* Center text alignment */
+    color: red;
+    height: 70vh; /* Full viewport height */
+    width: 100%; /* Full width */
+}

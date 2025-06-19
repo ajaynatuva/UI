@@ -1,0 +1,67 @@
+.Metatext {
+  text-align: center;
+  right: 172px;
+  position: relative;
+}
+
+.swal2-icon.swal2-error {
+  border-color: #f27474;
+  color: #f27474;
+  font-size: 10px;
+}
+
+.swal2-container.swal2-center>.swal2-popup {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  width: 400px;
+}
+
+.metabody {
+  height: 50px;
+
+}
+
+.metadesc {
+  font-size: 12px;
+  margin-left: 200px;
+}
+
+.metaheader {
+  height: 15px;
+}
+
+.alignment {
+  position: relative;
+  top: 7px;
+}
+
+.mfsquater {
+  height: 1px;
+}
+
+.hcpcs {
+  height: 10px;
+}
+
+.uploadfile {
+  height: 10px;
+}
+
+.choosefile {
+  position: relative;
+  top: 9px;
+  font-size: 12px;
+}
+
+.buttons {
+  height: 20px;
+}
+
+.buttonAlignment {
+  /* margin-left: 15px; */
+}
+.buttonsAlign{
+  margin-left: 120px;
+}

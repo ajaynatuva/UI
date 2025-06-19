@@ -1,0 +1,42 @@
+.Myfooter{
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* // Height of the footer */
+  height: 40px;
+  font-size: 10px;
+  margin-left: 480px;
+  margin-top: 60px;
+  color: grey;
+
+}
+.react-bootstrap-table th[data-row-selection] {
+  background-color: #004f71;
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #004f71;
+  border-color: #004f71;
+}
+.grid{
+height: 490px;
+
+}
+.swal2-icon.swal2-error {
+  border-color: #f27474;
+  color: #f27474;
+  font-size: 10px;
+}
+.swal2-container.swal2-center>.swal2-popup {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  width: 400px;
+}
+
+.button{
+  float: right;
+  margin-top: -20px;
+}

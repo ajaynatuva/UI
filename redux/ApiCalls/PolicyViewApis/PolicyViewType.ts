@@ -1,0 +1,12 @@
+export const GET_PRODUCT_DATA = "getProductData"
+export const GET_SUB_TOTAL_DATA = "getSubTotal"
+export const GET_DETAILS_TOTAL_DATA = "getDetailsTotal"
+export const GET_USED_CAT = "getUsedCat"
+export const GET_REASON_TREE_DATA = "getReasonTreeData"
+export const GET_POLICY_DETAILS_FROM_REASON = "getPolicyDetailsFromReason"
+export const TEMP_TOTAL = "tempTotal"
+
+export const GET_MEDICAL_TOTAL_DATA = "getMedicalTotal"
+export const GET_FILTERD_SUB_POLICIES_DATA = "getfilteredSubPolicyData"
+export const GET_FILTERD_REASON_DATA = "getfilteredReason"
+export const GET_FILTERD_POLICIES_DATA = "getfilteredPolicies"

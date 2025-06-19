@@ -1,0 +1,14 @@
+export const JIRAID = 'jiraId';
+export const JIRADESCRIPTION = 'jiraDescription';
+export const CLIENTCODE = 'clientCode';
+export const CLIENTGROUPCODE = 'clientGroupCode';
+export const CLIENTSTARTDATE = 'clientStartDate';
+export const RESETNEWCLIENT = 'resetNewClient';
+export const GET_TOTAL_CLIENT_ASSIGNMENT_DATA = 'getTotalClientAssignmentData';
+export const POLICYCLIENTCODE = 'policyClientCode';
+export const POLICYCLIENTGROUPCODE = 'policyClientGroupCode';
+export const POLICYCLIENTGROUPCODEDETAILS = 'policyClientGroupCodeDetails';
+export const GET_ALL_CHANGES_DATA = 'getAllChangesData';
+export const POLICYIDS = 'policyIDS';
+export const POLICYCLIENTGROUPCODEDETAILS1 = 'policyClientGroupCodeDetails';
+export const GET_TAXONOMY_DATA = 'getTaxonomyData';

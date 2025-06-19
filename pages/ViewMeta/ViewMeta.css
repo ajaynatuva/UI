@@ -1,0 +1,21 @@
+.ViewMetagrid {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 400px;
+  margin-top: 10px;
+}
+.viewMetaBtns {
+  position: relative;
+  right: 5px;
+}
+
+.ag-filter-condition {
+  display: none;
+}
+.ag-filter-select {
+  display: none;
+}
+
+.BWpairs {
+  top: 30px;
+}

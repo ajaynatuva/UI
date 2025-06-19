@@ -1,0 +1,21 @@
+.footer{
+    position: relative;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    /* width: 100%; */
+    top:  40px;
+    color: grey;
+    font-size: 10px;
+    height: 90px;
+}
+.addText{
+    text-align: center;
+    right: 50px;
+    position: relative;
+    margin-left: 250px;
+}
+.gridContainerAlignment{
+    font-size: 12;
+    margin-left: 35%;
+}
+
